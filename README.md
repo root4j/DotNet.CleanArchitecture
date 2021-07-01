@@ -4,7 +4,7 @@
 This is a clean architecture template that helps you understand how to use SOLID principles when creating a WebAPI project in .NET 5.0
 
 ## Español
-Esta es una plantilla con arquitectura limpia que te ayuda a comprender como utilizar los principios SOLID al momento crear un proyecto WebAPI en .NET 5.0.
+Esta es una plantilla con arquitectura limpia que te ayuda a comprender como utilizar los principios SOLID al momento crear un proyecto WebAPI en .NET 5.0
 
 ## 🔗 Links
 * [.NET 5](https://dotnet.microsoft.com/)
