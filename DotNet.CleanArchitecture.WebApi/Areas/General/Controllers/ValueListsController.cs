@@ -34,7 +34,7 @@ namespace DotNet.CleanArchitecture.WebApi.Areas.General.Controllers
             }
         }
 
-        // GET: General/api/ValueLists/COL-05
+        // GET: General/api/ValueLists/Gen-Sex-Male
         [HttpGet("{code}")]
         public async Task<ActionResult<ValueList>> Get(string code)
         {
@@ -67,7 +67,7 @@ namespace DotNet.CleanArchitecture.WebApi.Areas.General.Controllers
             }
         }
 
-        // PUT: General/api/ValueLists/COL-05
+        // PUT: General/api/ValueLists/Gen-Sex-Male
         [HttpPut("{code}")]
         public async Task<IActionResult> Put(string code, [FromBody] ValueList entity)
         {
@@ -102,7 +102,7 @@ namespace DotNet.CleanArchitecture.WebApi.Areas.General.Controllers
             }
         }
 
-        // DELETE: General/api/ValueLists/COL-05
+        // DELETE: General/api/ValueLists/Gen-Sex-Male
         [HttpDelete("{code}")]
         public async Task<IActionResult> Delete(string code)
         {
