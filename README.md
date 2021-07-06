@@ -9,3 +9,4 @@ Esta es una plantilla con arquitectura limpia que te ayuda a comprender como uti
 ## 🔗 Links
 * [.NET 5](https://dotnet.microsoft.com/)
 * [SQLite 3](https://www.sqlite.org/index.html)
+* [xUnit](https://xunit.net/)
